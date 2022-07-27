@@ -1,0 +1,11 @@
+.user-list-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    &>.ant-row {
+        max-width: 980px;
+        background-color: #7f8c8d;
+
+    }
+}
